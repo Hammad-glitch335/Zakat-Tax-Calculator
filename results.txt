@@ -1,0 +1,12 @@
+ZAKAT RESULT:
+Total Assets: 730002.00
+Loans: 23500.00
+Net Assets: 706502.00
+Zakat Due: 17662.55
+
+ZAKAT RESULT:
+Total Assets: 8488968.00
+Loans: 233223.00
+Net Assets: 8255745.00
+Zakat Due: 206393.63
+
